@@ -1,0 +1,1 @@
+fun SQA() = "This is SQA SHRC"
