@@ -1,3 +1,3 @@
 automation/vThieu
 fun SQA() = "This is SQA"
-fun SQAMobile() = "This is SQA SHRC"
+fun SQAMobile() = "This is SQA TVPLugin"
